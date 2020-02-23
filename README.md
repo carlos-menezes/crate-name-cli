@@ -11,7 +11,7 @@ cargo install crate-name-cli
 
 ## Usage
 
-![](https://i.imgur.com/mLwlpvJ.gifv)
+![](https://i.imgur.com/mLwlpvJ.gif)
 
 ## Contributing
 
