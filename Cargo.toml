@@ -1,0 +1,14 @@
+[package]
+name = "crate-name-cli"
+description = "Checks whether a package name is available on crates.io"
+version = "1.0.0"
+authors = ["Carlos Menezes <talk@carlosmenezes.com>"]
+edition = "2018"
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/carlos-menezes/crate-name-cli"
+
+
+[dependencies]
+clap = "2"
+curl = "0.4.8"
